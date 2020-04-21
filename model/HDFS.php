@@ -12,5 +12,8 @@ namespace app\component\model;
 
 class HDFS
 {
-
+    public function test()
+    {
+        echo 1;
+    }
 }
